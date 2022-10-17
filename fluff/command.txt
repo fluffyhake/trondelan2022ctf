@@ -1,0 +1,7 @@
+h@DESKTOP-MQTV0DT:~/git/wfuzz$ wfuzz -c -Z -w ../ffuf/wordlist/admin-login.txt https://xxxx/FUZZ | grep -wv "39 Ch"
+
+
+
+grep -wv does an invert match
+
+all answers of the site were the same size except for the admin site.

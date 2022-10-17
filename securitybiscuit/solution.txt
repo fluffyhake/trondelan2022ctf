@@ -1,0 +1,3 @@
+Change the cookie to "admin"
+
+Flag was base64 encoded.

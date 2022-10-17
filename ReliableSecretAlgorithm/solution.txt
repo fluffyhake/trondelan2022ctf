@@ -1,0 +1,3 @@
+Crack the private key due to very weak key-size and no padding.
+
+Insert each string seperated by space into the program. RsaCTFtool was good, also https://www.dcode.fr/rsa-cipher works!

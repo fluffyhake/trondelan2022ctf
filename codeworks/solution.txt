@@ -1,0 +1,3 @@
+Solution was to checkout previous commit where some credentials (the flag) was pushed and then undone in the next push.
+
+Git is too great of an archive tool.
